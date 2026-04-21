@@ -1,0 +1,27 @@
+{
+  "name": "file_parsers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushxpush/file_parsers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rushxpush/file_parsers/issues"
+  },
+  "homepage": "https://github.com/rushxpush/file_parsers#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
